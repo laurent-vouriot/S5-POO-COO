@@ -23,4 +23,6 @@ public abstract class Agregat extends ZoneRectangulaire{
         z2.setX(0);
         z2.setY(this.getY() + getHauteur());
     }
+
+    // TODO setX() et setY()
 }
